@@ -1,0 +1,9 @@
+﻿Group: My Plugin
+FriendlyName: Trialkacking
+SystemName: Other.MyPlugin
+Version: 1.0
+SupportedVersions: 3.80
+Author: nopCommerce team
+DisplayOrder: 1
+FileName: Nop.Plugin.Other.Myplugin.dll
+Description: This plugin enables check and money order payments

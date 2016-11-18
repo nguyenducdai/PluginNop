@@ -1,0 +1,9 @@
+﻿Group: TeamAso
+FriendlyName: Service feedback
+SystemName: Team.ServiceReview
+Version: 1.0
+SupportedVersions: 3.80
+Author: Aso team
+DisplayOrder: 1
+FileName: Nop.Plugin.TeamAso.ServiceReview.dll
+Description: This plugin allows to receive feedback from customers
